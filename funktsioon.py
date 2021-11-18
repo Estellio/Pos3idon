@@ -9,4 +9,5 @@ def paranda_komavead(lause):
     print(lause)
     
 # põhiprogrammi algus
-paranda_komavead()
+paranda_komavead("Jäin peaaegu kooli hiljaks sest äratuskell ei helisenud.")
+paranda_komavead("Nägin autot mis oli kollane")
